@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Davizun
+- 👀 I’m interested in coding in Python
+- 🌱 I’m currently learning Tkinter in python
+- 💞️ I’m looking to collaborate on Microsoft or Google
